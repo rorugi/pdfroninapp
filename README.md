@@ -33,4 +33,4 @@ PDFronin is built around that workflow:
 It's intentionally not a replacement for professional PDF production tools. It's the reader and everyday annotator I wanted on my own machines for reading, studying, marking up and printing — so I wrote it.
 
 ## Download
-[Windows Installer 1.1.1](https://github.com/rorugi/pdfroninapp/releases/download/PDFronin-1.1.1-x64-setup.exe)
+[Windows Installer 1.1.1](https://github.com/rorugi/pdfroninapp/releases/download/v1.1.1/PDFronin-1.1.1-x64-setup.exe)
