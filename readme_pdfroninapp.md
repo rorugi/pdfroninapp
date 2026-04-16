@@ -7,20 +7,16 @@
 PDFronin is a fast, lightweight PDF reader and light-touch editor for **Windows**. It opens documents instantly, scrolls and zooms without stutter even on large files, and gives you the everyday tools you actually need without burying them under a paywall or a browser-style UI.
 
 ## What it can do
-
- — highlight
- - underline
- - strike-through
- - sticky notes
- - free text
- - drawing with presets
- - stamps
- - images
- - page deletion
- - merge documents
- - search
- - OCR
- - printing
+- view PDfs
+- highlight, underline, strike-through
+- sticky notes
+- free text, drawing with presets
+- images, stamps
+- page deletion
+- merge documents
+- search
+- OCR
+- printing
 
 ## Why I built it
 
@@ -37,4 +33,4 @@ PDFronin is built around that workflow:
 It's intentionally not a replacement for professional PDF production tools. It's the reader and everyday annotator I wanted on my own machines for reading, studying, marking up and printing — so I wrote it.
 
 ## Download
-[Windows Installer 1.1.1](PDFronin-1.1.1-x64-setup.exe)
+[Windows Installer 1.1.1](https://github.com/rorugi/pdfroninapp/releases/download/PDFronin-1.1.1-x64-setup.exe)
