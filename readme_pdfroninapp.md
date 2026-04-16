@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PDFronin.App/Assets/logo-start-01.png" alt="PDFronin" width="360" />
+  <img src="./logo-start-01.png" alt="PDFronin" width="360" />
 </p>
 
 # PDFronin
