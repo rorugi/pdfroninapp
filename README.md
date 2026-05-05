@@ -34,3 +34,4 @@ It's intentionally not a replacement for professional PDF production tools. It's
 
 ## Download
 [Windows Installer 1.1.1](https://github.com/rorugi/pdfroninapp/releases/download/v1.1.1/PDFronin-1.1.1-x64-setup.exe)
+[Windows Installer Releases](https://github.com/rorugi/pdfroninapp/releases)
